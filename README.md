@@ -3,7 +3,7 @@
 
 **[Table S1] Lightcyan module members**: 834 transcripts placed in the lightcyan module using WGCNA as described in the Methods.
 
-**Table S2] Skyblue module members**: 691 transcripts placed in the skyblue module using WGCNA as described in the Methods.
+**[Table S2] Skyblue module members**: 691 transcripts placed in the skyblue module using WGCNA as described in the Methods.
 
 **[Table S3] Lightcyan annotation**: Manual annotation of transcripts with the highest membership in lightcyan, highest significance to percent type I grouped, and classified by biomaRt as protein-coding or miRNA. 
 
